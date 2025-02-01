@@ -56,5 +56,6 @@
   - เรียกดูข้อมูลธุรกรรมทั้งหมด
 
 ## ER Diagram
-![crypto drawio](https://github.com/user-attachments/assets/65a6bf17-f7c4-4d34-9ef2-e17ba6d80450)
+![crypto drawio](https://github.com/user-attachments/assets/db68c6be-6fdc-4ac2-aa3d-69e60e914d54)
+
 
